@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Sat, 05 Nov 2011 21:34:45 +0000
+Source: mak
+Binary: mak
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ mak        - <insert up to 60 chars description>
+Changes: 
+ mak (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 8a651e9416d7e4f068e8f23a22ceda7c11eadfc5 179232 mak_0.0.1_armel.deb
+Checksums-Sha256: 
+ 26a93bc63be023eb29485b7eaa17aac0a8f789913e163168aad7de71d23439fa 179232 mak_0.0.1_armel.deb
+Files: 
+ 7a864474552f51dc887ae38b9585c732 179232 user/other optional mak_0.0.1_armel.deb
+Maemo-Display-Name: mak

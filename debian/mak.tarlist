@@ -1,0 +1,39 @@
+# This file is created by MADDE 'dh_fixperms'.
+# MADDE 'dpkg-deb' uses this file when creating
+# 'data.tar.gz' for debian package ar archive.
+755 root root . ./opt /
+755 root root . ./opt/mak /
+755 root root . ./opt/mak/bin /
+755 root root . ./opt/mak/bin/mak debian/mak/opt/mak/bin/mak
+755 root root . ./opt/mak/qml /
+755 root root . ./opt/mak/qml/mak /
+644 root root . ./opt/mak/qml/mak/MainPage.qml debian/mak/opt/mak/qml/mak/MainPage.qml
+755 root root . ./opt/mak/qml/mak/images /
+644 root root . ./opt/mak/qml/mak/images/background.png debian/mak/opt/mak/qml/mak/images/background.png
+644 root root . ./opt/mak/qml/mak/images/center.png debian/mak/opt/mak/qml/mak/images/center.png
+644 root root . ./opt/mak/qml/mak/images/clock-night.png debian/mak/opt/mak/qml/mak/images/clock-night.png
+644 root root . ./opt/mak/qml/mak/images/clock.png debian/mak/opt/mak/qml/mak/images/clock.png
+644 root root . ./opt/mak/qml/mak/images/clock_meego_blue.png debian/mak/opt/mak/qml/mak/images/clock_meego_blue.png
+644 root root . ./opt/mak/qml/mak/images/info.png debian/mak/opt/mak/qml/mak/images/info.png
+644 root root . ./opt/mak/qml/mak/images/minute.png debian/mak/opt/mak/qml/mak/images/minute.png
+644 root root . ./opt/mak/qml/mak/images/pixel.jpg debian/mak/opt/mak/qml/mak/images/pixel.jpg
+644 root root . ./opt/mak/qml/mak/images/second.png debian/mak/opt/mak/qml/mak/images/second.png
+755 root root . ./opt/mak/qml/mak/js /
+644 root root . ./opt/mak/qml/mak/js/countdown.js debian/mak/opt/mak/qml/mak/js/countdown.js
+644 root root . ./opt/mak/qml/mak/main.qml debian/mak/opt/mak/qml/mak/main.qml
+755 root root . ./opt/mak/qml/mak/sounds /
+644 root root . ./opt/mak/qml/mak/sounds/beep-01.wav debian/mak/opt/mak/qml/mak/sounds/beep-01.wav
+644 root root . ./opt/mak/qml/mak/sounds/beep-07.wav debian/mak/opt/mak/qml/mak/sounds/beep-07.wav
+755 root root . ./usr /
+755 root root . ./usr/share /
+755 root root . ./usr/share/applications /
+644 root root . ./usr/share/applications/mak_harmattan.desktop debian/mak/usr/share/applications/mak_harmattan.desktop
+755 root root . ./usr/share/doc /
+755 root root . ./usr/share/doc/mak /
+644 root root . ./usr/share/doc/mak/changelog.gz debian/mak/usr/share/doc/mak/changelog.gz
+644 root root . ./usr/share/doc/mak/copyright debian/mak/usr/share/doc/mak/copyright
+755 root root . ./usr/share/icons /
+755 root root . ./usr/share/icons/hicolor /
+755 root root . ./usr/share/icons/hicolor/80x80 /
+755 root root . ./usr/share/icons/hicolor/80x80/apps /
+644 root root . ./usr/share/icons/hicolor/80x80/apps/mak80.png debian/mak/usr/share/icons/hicolor/80x80/apps/mak80.png
